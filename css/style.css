@@ -5,16 +5,18 @@
   align-items: center;
   background-color: #2e2f42;
   height: 50vh;
+  font-weight: 400;
 }
 
 h1 {
   margin: 0 0 20px 0;
-  color: #f4f4fd;
+  color: #ffffff;
   width: 496px;
   height: 120px;
   top: 260px;
   left: 472px;
   text-align: center;
+  font-weight: 700;
 }
 
 button {
@@ -24,7 +26,10 @@ button {
   cursor: pointer;
   color: #f4f4fd;
   background-color: #4d5ae5;
+  font-style: normal;
+  font-weight: 400;
 }
+
 
 .ust {
   margin: 0;
@@ -60,6 +65,8 @@ h2 {
   justify-content: space-between;
   align-items: center;
   text-align: center;
+  color: #2e2f42;
+  font-weight: 700;
 }
 
 .fotograf {
@@ -85,13 +92,16 @@ img {
 }
 .en-alt-p {
   color: #f4f4fd;
+  font-weight: 400;
 }
 .web {
   color: #4d5ae5;
   font-size: large;
+  font-weight: 700;
 }
 .studio {
   color: #f4f4fd;
+  font-weight: 700;
 }
 .en-alt {
   display: flex;
@@ -110,13 +120,33 @@ body {
 }
 .studio-ust {
   color: #2e2f42;
+  font-weight: 700;
 }
 a {
   color: #2e2f42;
 }
 h3 {
   color: #2e2f42;
+  font-weight: 500;
 }
 p {
   color: #434455;
+  font-weight: 400;
+}
+.fotodiv-alt {
+  width: 360px;
+  top: 1980px;
+  left: 156px;
+  height: 420px;
+  border-radius: 8px;
+text-align: center;
+  border-radius: 10%;
+}
+img{
+  width: 360px;
+  height: 300px;
+}
+.ust-foto {
+  width: 264px;
+  height: 260px;
 }
