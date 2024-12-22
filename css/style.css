@@ -98,10 +98,14 @@ img {
   color: #4d5ae5;
   font-size: large;
   font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
 }
 .studio {
   color: #f4f4fd;
   font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
 }
 .en-alt {
   display: flex;
