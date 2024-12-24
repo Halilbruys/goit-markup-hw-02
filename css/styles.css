@@ -22,7 +22,7 @@ button {
   border: none;
   cursor: pointer;
   color: #f4f4fd;
-  background-color: #4d5ae5;
+ 
   font-style: normal;
   font-weight: 400;
 }
@@ -109,11 +109,7 @@ img {
   height: 50vh;
   padding-left: 100px;
 }
-body {
-  margin: 0;
-  padding: 0;
-  color: #434455"
-}
+
 .studio-ust {
   color: #2e2f42;
   font-weight: 700;
@@ -129,7 +125,7 @@ h3 {
 p {
   color: #434455;
   font-weight: 400;
-  font-family: roboto, sans-serif;
+  
 }
 .fotodiv-alt {
   width: 360px;
@@ -144,3 +140,10 @@ img {
   width: 264px;
   height: 260px;
 }
+body {
+  margin: 0;
+  padding: 0;
+  color: #434455;
+
+}
+
