@@ -1,5 +1,4 @@
 .butonlu-yer {
-
   justify-content: center;
 
   font-weight: 400;
@@ -7,7 +6,6 @@
 
 h1 {
   margin: 0 0 20px 0;
- 
 
   font-weight: 700;
 }
@@ -16,7 +14,6 @@ button {
   font-size: normal;
   border: none;
   cursor: pointer;
- 
 
   font-style: normal;
   font-weight: 400;
@@ -25,37 +22,28 @@ button {
 .ust {
   margin: 0;
 
-  
   justify-content: space-around;
-
-  font-family: raleway, sans-serif;
 }
 
 .asagi {
- 
   justify-content: space-around;
 }
 
 .item {
-  
-
   justify-content: space-between;
 
   text-align: center;
 }
 
 h2 {
-  
-
   justify-content: space-between;
 
   text-align: center;
-  
+
   font-weight: 700;
 }
 
 .fotograf {
- 
   justify-content: center;
 
   flex-wrap: wrap;
@@ -68,43 +56,31 @@ h2 {
 img {
 }
 .en-alt-p {
- 
   font-weight: 400;
 }
 .web {
-  
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
-  font-family: raleway, sans-serif;
 }
 .studio {
-  
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
-  font-family: raleway, sans-serif;
 }
 .en-alt {
- 
-
   justify-content: center;
 }
 
 .studio-ust {
- 
   font-weight: 700;
-  font-family: raleway, sans-serif;
 }
 a {
-  
 }
 h3 {
-  
   font-weight: 500;
 }
 p {
-  
   font-weight: 400;
 }
 .fotodiv-alt {
@@ -116,9 +92,7 @@ img {
 }
 body {
   margin: 0;
- 
-  font-family: raleway sans-serif;
+
   background-color: none;
   color: #434455;
-  
 }
