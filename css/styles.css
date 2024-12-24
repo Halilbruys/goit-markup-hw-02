@@ -92,7 +92,7 @@ img {
 }
 body {
   margin: 0;
-
-  background-color: none;
+background-color: #F4F4FD;
   color: #434455;
+  font-family: raleway , sans-serif;
 }
