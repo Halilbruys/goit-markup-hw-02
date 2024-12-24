@@ -1,5 +1,5 @@
 .butonlu-yer {
-  display: flex;
+
   justify-content: center;
 
   font-weight: 400;
@@ -25,19 +25,19 @@ button {
 .ust {
   margin: 0;
 
-  display: flex;
+  
   justify-content: space-around;
 
   font-family: raleway, sans-serif;
 }
 
 .asagi {
-  display: flex;
+ 
   justify-content: space-around;
 }
 
 .item {
-  display: flex;
+  
 
   justify-content: space-between;
 
@@ -45,7 +45,7 @@ button {
 }
 
 h2 {
-  display: flex;
+  
 
   justify-content: space-between;
 
@@ -55,7 +55,7 @@ h2 {
 }
 
 .fotograf {
-  display: flex;
+ 
   justify-content: center;
 
   flex-wrap: wrap;
@@ -86,7 +86,7 @@ img {
   font-family: raleway, sans-serif;
 }
 .en-alt {
-  display: flex;
+ 
 
   justify-content: center;
 }
