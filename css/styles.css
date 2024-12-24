@@ -7,7 +7,7 @@
 
 h1 {
   margin: 0 0 20px 0;
-  color: #ffffff;
+ 
 
   font-weight: 700;
 }
@@ -16,7 +16,7 @@ button {
   font-size: normal;
   border: none;
   cursor: pointer;
-  color: #f4f4fd;
+ 
 
   font-style: normal;
   font-weight: 400;
@@ -50,7 +50,7 @@ h2 {
   justify-content: space-between;
 
   text-align: center;
-  color: #2e2f42;
+  
   font-weight: 700;
 }
 
@@ -68,18 +68,18 @@ h2 {
 img {
 }
 .en-alt-p {
-  color: #f4f4fd;
+ 
   font-weight: 400;
 }
 .web {
-  color: #4d5ae5;
+  
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
   font-family: raleway, sans-serif;
 }
 .studio {
-  color: #f4f4fd;
+  
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
@@ -92,19 +92,19 @@ img {
 }
 
 .studio-ust {
-  color: #2e2f42;
+ 
   font-weight: 700;
   font-family: raleway, sans-serif;
 }
 a {
-  color: #2e2f42;
+  
 }
 h3 {
-  color: #2e2f42;
+  
   font-weight: 500;
 }
 p {
-  color: #434455;
+  
   font-weight: 400;
 }
 .fotodiv-alt {
@@ -116,7 +116,7 @@ img {
 }
 body {
   margin: 0;
-  color: #434455;
+ ;
   font-family: raleway sans-serif;
   background-color: none;
 }
