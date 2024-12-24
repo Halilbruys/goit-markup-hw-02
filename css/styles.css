@@ -1,18 +1,14 @@
 .butonlu-yer {
   display: flex;
   justify-content: center;
-  height: 50vh;
+
   font-weight: 400;
 }
 
 h1 {
   margin: 0 0 20px 0;
   color: #ffffff;
-  width: 496px;
-  height: 120px;
-  top: 260px;
-  left: 472px;
-  text-align: center;
+
   font-weight: 700;
 }
 
@@ -22,42 +18,40 @@ button {
   border: none;
   cursor: pointer;
   color: #f4f4fd;
- 
+
   font-style: normal;
   font-weight: 400;
 }
 
 .ust {
   margin: 0;
-  padding: 0;
+
   display: flex;
   justify-content: space-around;
-  width: 1440px;
-  height: 72px;
+
   font-family: raleway, sans-serif;
 }
 
 .asagi {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+
   height: 10vh;
 }
 
 .item {
   display: flex;
- 
+
   justify-content: space-between;
- 
+
   text-align: center;
-  padding: 20px;
 }
 
 h2 {
   display: flex;
- 
+
   justify-content: space-between;
-  
+
   text-align: center;
   color: #2e2f42;
   font-weight: 700;
@@ -66,18 +60,14 @@ h2 {
 .fotograf {
   display: flex;
   justify-content: center;
- 
+
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
 }
 
 .fotodiv {
   width: 22%;
-  border-radius: 8px;
-  padding: 15px;
+
   text-align: center;
-  border-radius: 10%;
 }
 
 img {
@@ -103,11 +93,9 @@ img {
 }
 .en-alt {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
 
+  justify-content: center;
   height: 50vh;
-  padding-left: 100px;
 }
 
 .studio-ust {
@@ -125,7 +113,6 @@ h3 {
 p {
   color: #434455;
   font-weight: 400;
-  
 }
 .fotodiv-alt {
   width: 360px;
@@ -144,6 +131,4 @@ body {
   margin: 0;
   padding: 0;
   color: #434455;
-
 }
-
