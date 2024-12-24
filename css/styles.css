@@ -62,7 +62,7 @@ img {
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
-  font-family: "raleway" ;
+  font-family: "raleway" , sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -93,9 +93,9 @@ body {
   color: #434455;
   font-style: normal;
   background-color: #ffffff;
-  font-family: "raleway";
+  font-family: "raleway" , sans-serif;
 }
 .stu {
   color: #2e2f42;
-  font-family: "raleway" ;
+  font-family: "raleway" ,sans-serif ;
 }
