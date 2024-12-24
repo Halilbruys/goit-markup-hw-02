@@ -91,9 +91,9 @@ img {
 .ust-foto {
 }
 body {
-  margin: 0;
-  color: #434455;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
-
+  background-color: #ffffff;
+  color: #434455;
 }
+
