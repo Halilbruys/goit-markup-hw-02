@@ -1,8 +1,6 @@
 .butonlu-yer {
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
   background-color: #2e2f42;
   height: 50vh;
   font-weight: 400;
@@ -77,7 +75,6 @@ h2 {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  background: color #f4f4fd;
 }
 
 .fotodiv {
@@ -121,8 +118,7 @@ img {
 body {
   margin: 0;
   padding: 0;
-  font-family: roboto ,  sans-serif;
-  color: black;
+  color: #434455
 }
 .studio-ust {
   color: #2e2f42;
