@@ -116,7 +116,9 @@ img {
 }
 body {
   margin: 0;
- ;
+ 
   font-family: raleway sans-serif;
   background-color: none;
+  color: #434455;
+  
 }
