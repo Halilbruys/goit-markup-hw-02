@@ -63,21 +63,15 @@ img {
   cursor: pointer;
   text-decoration: none;
   font-family: 'raleway' ,sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
 }
-.studio {
-  font-weight: 700;
-  cursor: pointer;
-  text-decoration: none;
-  font-family: 'raleway',sans-serif;
-}
+
 .en-alt {
   justify-content: center;
 }
 
-.studio-ust {
-  font-weight: 700;
-  font-family: 'raleway' , sans-serif;
-}
+
 a {
 }
 h3 {
