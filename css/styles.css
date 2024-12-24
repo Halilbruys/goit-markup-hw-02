@@ -93,8 +93,12 @@ body {
   font-weight: 400;
   color: #434455;
   font-style: normal;
+  font-family: 'roboto' , sans-serif;
+  background-color: #ffffff;
+
 }
 .stu {
   color: #2e2f42;
   font-family: "raleway", sans-serif;
+
 }
