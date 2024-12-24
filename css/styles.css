@@ -62,11 +62,13 @@ img {
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
+  font-family: 'raleway' ,sans-serif;
 }
 .studio {
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
+  font-family: 'raleway',sans-serif;
 }
 .en-alt {
   justify-content: center;
@@ -74,6 +76,7 @@ img {
 
 .studio-ust {
   font-weight: 700;
+  font-family: 'raleway' , sans-serif;
 }
 a {
 }
