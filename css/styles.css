@@ -13,7 +13,6 @@ h1 {
 }
 
 button {
-  padding: 10px 20px;
   font-size: normal;
   border: none;
   cursor: pointer;
@@ -35,8 +34,6 @@ button {
 .asagi {
   display: flex;
   justify-content: space-around;
-
-  height: 10vh;
 }
 
 .item {
@@ -65,13 +62,10 @@ h2 {
 }
 
 .fotodiv {
-  width: 22%;
-
   text-align: center;
 }
 
 img {
-  width: 50%;
 }
 .en-alt-p {
   color: #f4f4fd;
@@ -95,7 +89,6 @@ img {
   display: flex;
 
   justify-content: center;
-  height: 50vh;
 }
 
 .studio-ust {
@@ -115,20 +108,15 @@ p {
   font-weight: 400;
 }
 .fotodiv-alt {
-  width: 360px;
-  height: 420px;
   text-align: center;
 }
 img {
-  width: 360px;
-  height: 300px;
 }
 .ust-foto {
-  width: 264px;
-  height: 260px;
 }
 body {
   margin: 0;
-  padding: 0;
+
   color: #434455;
+  font-family: raleway sans-serif;
 }
