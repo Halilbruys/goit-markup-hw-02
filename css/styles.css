@@ -62,19 +62,17 @@ img {
   font-weight: 700;
   cursor: pointer;
   text-decoration: none;
-  font-family: 'raleway' ,sans-serif;
+  font-family: "raleway", sans-serif;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-
 }
 
 .en-alt {
   justify-content: center;
 }
-
 
 a {
 }
@@ -98,5 +96,5 @@ body {
 }
 .stu {
   color: #2e2f42;
-  font-family: 'raleway', sans-serif;
+  font-family: "raleway", sans-serif;
 }
