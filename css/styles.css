@@ -86,10 +86,6 @@ p {
 .fotodiv-alt {
   text-align: center;
 }
-img {
-}
-.ust-foto {
-}
 body {
   font-weight: 400;
   color: #434455;
@@ -130,7 +126,7 @@ header {
   color: #2e2f42;
 }
 a {
-  color: #434455;
+  color: #2e2f42;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
