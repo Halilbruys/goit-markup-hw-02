@@ -10,7 +10,7 @@ h1 {
   font-weight: 700;
 }
 
-button:hover {
+.button:hover {
   background-color: #4d5ae5;
   font-family: 'Roboto' , sans-serif;
   font-weight: 500;
