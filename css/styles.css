@@ -10,13 +10,14 @@ h1 {
   font-weight: 700;
 }
 
-button {
-  font-size: normal;
-  border: none;
-  cursor: pointer;
-
-  font-style: normal;
-  font-weight: 400;
+button:hover {
+  background-color: #4d5ae5;
+  font-family: 'Roboto' , sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #ffffff;
+  letter-spacing: 0.04em;
 }
 
 .ust {
@@ -143,4 +144,16 @@ h3{
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.ilk {
+  background-color: #2e2f42;
+}
+.h1h{
+  font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+
+
 }
