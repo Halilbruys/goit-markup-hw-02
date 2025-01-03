@@ -189,3 +189,51 @@ body {
   letter-spacing: 0.02em;
   color: var(--cloud);
 }
+
+/* Logo Stil */
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo .prt {
+  color: #2e2f42;
+}
+
+/* Navigation List */
+.navigation__link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.navigation__link:hover,
+.navigation__link:focus {
+  color: #404bbf;
+}
+
+/* Address */
+.contact {
+  font-style: normal;
+}
+
+.contact-list__link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+
+.contact-list__link:hover,
+.contact-list__link:focus {
+  color: #404bbf;
+}
