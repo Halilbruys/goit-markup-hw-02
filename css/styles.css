@@ -18,6 +18,8 @@ body {
   font-family: var(--font-family);
   color: var(--slate);
   background-color: var(--white);
+  color: #434455;
+  background-color: #ffffff
 }
 
 .btn {
