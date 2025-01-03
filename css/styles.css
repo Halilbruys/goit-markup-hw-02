@@ -1,187 +1,79 @@
 :root {
-  --font-family: 'Roboto', sans-serif;
-  --second-family: 'Raleway', sans-serif;
-  --slate: #6b6b6b;
-  --navy-blue: #2e2f42;
-  --white: #ffffff;
-  --cloud: #f5f5f5;
-  --ocean: #404bbf;
-  --iris: #4d5ae5;
+  --font-primary: 'Raleway', sans-serif;
+  --font-secondary: 'Roboto', sans-serif;
+  --color-primary: #4d5ae5;
+  --color-secondary: #2e2f42;
+  --color-hover: #404bbf;
+  --color-text: #434455;
+  --color-bg: #ffffff;
+}
+
+/* Genel Ayarlar */
+body {
+  font-family: var(--font-secondary);
+  color: var(--color-text);
+  background-color: var(--color-bg);
 }
 
 a {
   text-decoration: none;
 }
 
-ul, ol {
+/* Logo */
+.logo {
+  font-family: var(--font-primary);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+}
+
+.logo__span {
+  color: var(--color-secondary);
+}
+
+/* Navigation List */
+.navigation__list {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-body {
-  font-family: var(--font-family);
-  color: #434455;
-  background-color: #ffffff;
-}
-
-.btn {
-  font-family: var(--font-family);
-  cursor: pointer;
-}
-
-.btn:hover,
-.btn:focus {
-  background-color: var(--ocean);
-}
-
-.footer .prt {
-  color: var(--cloud);
-}
-
 .navigation__link {
-  font-family: var(--font-family);
+  font-family: var(--font-secondary);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
-  text-decoration: none;
+  color: var(--color-secondary);
 }
 
 .navigation__link:hover,
 .navigation__link:focus {
-  color: var(--ocean);
+  color: var(--color-hover);
 }
 
+/* Address */
 .contact {
   font-style: normal;
+}
+
+.contact-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .contact-list__link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
-  text-decoration: none;
+  color: var(--color-text);
 }
 
 .contact-list__link:hover,
 .contact-list__link:focus {
-  color: var(--ocean);
-}
-
-.hero {
-  background-color: var(--navy-blue);
-}
-
-.hero__title {
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  color: var(--white);
-}
-
-.hero__btn {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: var(--white);
-  background-color: var(--iris);
-}
-
-.peculiarities__title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-}
-
-.peculiarities__text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
-}
-
-.team {
-  background-color: var(--cloud);
-}
-
-.team__item {
-  background-color: var(--white);
-}
-
-.team__title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-  text-transform: capitalize;
-}
-
-.team__name {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-}
-
-.team__text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
-}
-
-.portfolio__title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-  text-transform: capitalize;
-}
-
-.portfolio__cart-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-}
-
-.portfolio__card-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
-}
-
-.footer {
-  background-color: var(--navy-blue);
-}
-
-.footer__text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--cloud);
-}
-
-/* Logo Stil */
-.logo {
-  font-family: var(--second-family);
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--iris);
-}
-
-.logo .prt {
-  color: var(--navy-blue);
+  color: var(--color-hover);
 }
