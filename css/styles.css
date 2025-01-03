@@ -41,19 +41,9 @@ body {
   background-color: var(--ocean);
 }
 
-.logo {
-  font-family: var(--second-family);
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--iris);
-}
 
-.navigation .prt {
-  color: var(--navy-blue);
-}
+
+
 
 .footer .prt {
   color: var(--cloud);
@@ -72,14 +62,7 @@ body {
   font-style: normal;
 }
 
-.contact-list__link {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
-}
+
 
 .navigation__link:hover,
 .navigation__link:focus,
