@@ -16,13 +16,11 @@
   --second-family: 'Raleway', sans-serif;
 }
 
-
 a {
   text-decoration: none;  
 }
 
 ul, ol {
-
   margin: 0;
   list-style: none;
 }
@@ -43,7 +41,6 @@ body {
   background-color: var(--ocean);
 }
 
-
 .logo {
   font-family: var(--second-family);
   font-weight: 700;
@@ -53,6 +50,7 @@ body {
   text-transform: uppercase;
   color: var(--iris);
 }
+
 .navigation .prt {
   color: var(--navy-blue);
 }
@@ -90,7 +88,6 @@ body {
   color: var(--ocean);
 }
 
-
 .hero {
   background-color: var(--navy-blue);
 }
@@ -112,7 +109,6 @@ body {
   background-color: var(--iris);
 }
 
-
 .peculiarities__title {
   font-weight: 500;
   font-size: 20px;
@@ -128,12 +124,11 @@ body {
   color: var(--slate);
 }
 
-
 .team {
   background-color: var(--cloud);
 }
 
-.team__item{
+.team__item {
   background-color: var(--white);
 }
 
@@ -166,7 +161,6 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-
   text-transform: capitalize;
 }
 
